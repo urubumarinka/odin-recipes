@@ -3,4 +3,3 @@ When finishing this project I can showcase my just learned skills on git,
 html as well as good documentation habits.
 
 Thanks for reading!
-
